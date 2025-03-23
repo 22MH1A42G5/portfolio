@@ -12,7 +12,7 @@ document.getElementById('contactUs-Form').addEventListener('submit', function(ev
   };
 
   emailjs.send(
-      'service_xtwm1yl', // Correct Service ID
+      'service_sv7huvu', // Correct Service ID
       'template_7qdnder', // Correct Template ID
       {
           name: form.name,
